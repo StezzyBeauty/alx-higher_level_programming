@@ -23,6 +23,7 @@
 - We strongly encourage you to work together on test cases so that you don’t miss any edge case
 
 **Tasks**
+
 0. If it's not tested it doesn't work
 1. Base class
 2. First Rectangle
