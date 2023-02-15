@@ -1,0 +1,18 @@
+# More Queries
+
+<img src=https://camo.githubusercontent.com/7d3b46f6faf04cee19f2085de3c6158dc94489273d72eb6014567b8e3cfd7cf5/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3736382f312a39346e37596a6d32786d6c39645646625470683068412e6a706567>
+
+## Learning Objectives
+
+At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+
+### General
+
+- How to create a new MySQL user
+- How to manage privileges for a user to a database or table
+- What’s a `PRIMARY KEY`
+- What’s a `FOREIGN KEY`
+- How to use `NOT NULL` and `UNIQUE` constraints
+- How to retrieve datas from multiple tables in one request
+- What are subqueries
+- What are `JOIN` and `UNION`
